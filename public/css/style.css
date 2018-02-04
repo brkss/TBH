@@ -1,0 +1,39 @@
+.navedit {
+    background: #10BBB3;
+    font-weight: 600 ;
+    color: white ;
+}
+
+.navbar-header {
+    color :white;
+}
+.info {
+    font-weight: bold;
+}
+
+.info > a {
+    color: #10BBB3 ;
+}
+
+textarea {
+    resize: none;
+    margin-bottom: 10px;
+ }
+
+ .send {
+     background: #10BBB3 ;
+ }
+ .send:hover {
+     background: none ;
+     color: #10BBB3 ;
+     font-weight: 600;
+ }
+
+ .unlike {
+     background: white ;
+     color :#10BBB3;
+ }
+ .like {
+     background: #10BBB3 ;
+     color: white ;
+ }
